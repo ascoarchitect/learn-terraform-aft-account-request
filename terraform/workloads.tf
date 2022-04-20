@@ -3,7 +3,7 @@ module "workload2" {
 
   control_tower_parameters = {
     AccountEmail              = "ascotts+ctworkload2@amazon.co.uk"
-    AccountName               = "ct-sandbox-aft-workload1"
+    AccountName               = "ct-sandbox-aft-workload2"
     ManagedOrganizationalUnit = "Workloads"
     SSOUserEmail              = "ascotts+ctworkload2@amazon.co.uk"
     SSOUserFirstName          = "Workloads2"
